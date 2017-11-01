@@ -1,0 +1,25 @@
+{
+  "name": "renovate-heroku",
+  "version": "0.0.1",
+  "description": "Example repository for Heroku deployment of Renovate",
+  "scripts": {
+    "renovate": "renovate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rarkins@github.com/rarkins/renovate-heroku.git"
+  },
+  "keywords": [
+    "renovate",
+    "heroku"
+  ],
+  "author": "Rhys Arkins <rhys@arkins.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rarkins/renovate-heroku/issues"
+  },
+  "homepage": "https://github.com/rarkins/renovate-heroku#readme",
+  "dependencies": {
+    "renovate": "9.99.0"
+  }
+}
